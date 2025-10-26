@@ -2,7 +2,7 @@
 title: "Una práctica holística"
 date: '2025-12-31'
 output: html_document
-date: '2025-03-20'
+
 ---
 
 
