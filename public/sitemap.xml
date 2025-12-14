@@ -3,63 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/presentacion/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contenidos/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/objetivos/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/category1/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/category2/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tag1/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tag2/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    <loc>/estrategia/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/17/03/2025/qu-hacemos/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/05/02/2025/tradicion-ciencia/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/05/02/2025/primer-post/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

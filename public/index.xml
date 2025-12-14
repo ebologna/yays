@@ -1,48 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aero neuro balance</title>
+    <title>Análsis de datos con software libre</title>
     <link>/</link>
-    <description>Recent content on Aero neuro balance</description>
+    <description>Recent content on Análsis de datos con software libre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>¿Qué hacemos?</title>
-      <link>/17/03/2025/qu-hacemos/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Presentación</title>
+      <link>/presentacion/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>/17/03/2025/qu-hacemos/</guid>
-      <description>La clase consiste de  ejercicios dirigidos a estimular la neuroplasticidad y a reducir el estrés técnicas como la atención plena y ejercicios de visualización para fortalecer la reintegración cuerpo-mente uso de escaneo corporal y técnicas de interocepción para aumentar la autoconciencia posturas adaptadas a diferentes niveles de habilidad, con énfasis en el alineamiento seguro y funcional uso del columpio para mejorar la flexibilidad, la fuerza y la sensación de libertad aplicación de patrones de respiración controlada para influir en el sistema nervioso autónomo, para aumentar la oxigenación, bajar la frecuencia cardíaca, reducir el estrés y la ansiedad, contribuir a la concentración y a focalizar la mente ejercicios que enfatizan el control muscular interno (bandhas) para mejorar la estabilidad y la energía interna prácticas accesibles para que quienes lo practican puedan desarrollar sus habilidades gradualmente  </description>
+      <guid>/presentacion/</guid>
+      <description>En la era digital, el análisis de grandes volúmenes de datos es una habilidad esencial en investigación social para respaldar decisiones informadas. Aunque las herramientas de inteligencia artificial (IA) han democratizado el acceso a procedimientos complejos, su uso competente demanda una base de conocimiento sólida y formas adecuadas de formular las consultas. Este trayecto brinda las bases necesarias para abordar conjuntos de datos y aplicar análisis descriptivos e inferenciales. El objetivo es dar a conocer las herramientas disponibles en el lenguaje R y desarrollar las competencias para utilizar eficazmente los recursos de la IA.</description>
     </item>
     
     <item>
-      <title>El grupo</title>
-      <link>/about/</link>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Contenidos</title>
+      <link>/contenidos/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Acá se explica quienes está llevando adelante el proyecto
-Por ahora Gaby, Flor, Vitu, Flavia y Edu</description>
+      <guid>/contenidos/</guid>
+      <description>Contenidos La descripción de los datos  Distribuciones univariadas Medidas resumen correspondientes a cada tipo de variable Distribuciones bivariadas Medidas de asociación según tipo de variable Visualización de datos: distribuciones simples y conjuntas  Inferencia estadística  Parámetros de variables categóricas y cuantitativas Estimación de parámetros: error, riesgo, tamaño de muestra La varianza según el diseño muestral Pruebas de hipótesis: tipos de error, curva de potencia  Modelización  ANOVA de un factor Regresión lineal simple y múltiple Regresión logística  Bibliografía   comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos, Recuperado el 8/6/2025 de: https://es.</description>
     </item>
     
     <item>
-      <title>Equilibrio, respiración, cuerpo y mente: saberes tradicionales que la ciencia redescubre</title>
-      <link>/05/02/2025/tradicion-ciencia/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Objetivos</title>
+      <link>/objetivos/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/05/02/2025/tradicion-ciencia/</guid>
-      <description>Vivimos en una era en la que la ciencia moderna avanza a pasos agigantados. Cada año, nuevos estudios nos revelan información fascinante sobre la mente, el cuerpo y la salud. Sin embargo, en muchos casos, estos &amp;ldquo;descubrimientos&amp;rdquo; no son realmente nuevos, sino redescubrimientos de conocimientos que culturas ancestrales ya aplicaban hace siglos.
-El yoga y otras prácticas orientales han transmitido, durante milenios, técnicas para fortalecer el cuerpo, mejorar la respiración, aumentar la flexibilidad y alcanzar estados mentales elevados.</description>
+      <guid>/objetivos/</guid>
+      <description>General
+Aportar al desarrollo de competencias en el análisis de datos, usando herramientas actualizadas
+Específicos
+que quienes completen el curso puedan:
+  Implementar procedimientos de análisis de información estructurada, usando el lenguaje de programación R
+  Interpretar resultados provenientes de la aplicación de diferentes técnicas de análisis. Incorporar herramientas para la representación de información cuantitativa de manera visual
+  Reconocer la importancia de trabajar con lenguajes de programación y software libres</description>
     </item>
     
     <item>
-      <title>¿De qué se trata?</title>
-      <link>/05/02/2025/primer-post/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Estrategia pedagógica</title>
+      <link>/estrategia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/05/02/2025/primer-post/</guid>
-      <description>Aero neuro balance Es una práctica holística que combina los principios de la neurociencia de la relación mente-cuerpo, técnicas de meditación, posturas inspiradas en asanas de yoga complementadas con el uso del columpio, respiración consciente y ejercicios enfocados en los bloqueos energéticos. Está diseñada para cultivar el equilibrio entre el bienestar físico y mental, optimizando la conexión entre el cerebro, el sistema nervioso periférico y el cuerpo. Aborda eficazmente los desafíos asociados al estilo de vida occidental contemporáneo, caracterizado por altos niveles de estrés, sedentarismo y sobrecarga mental, provenientes de la multitarea y la estimulación visual y auditiva permanente.</description>
+      <guid>/estrategia/</guid>
+      <description>El cursado implica interacción permanente entre estudiantes y docente, los tiempos de exposición con carácter de clase magistral, se reducen al mínimo para poner foco en los intercambios que faciliten la apropiación de procedimientos de análisis. En los encuentros sincrónicos se presentarán los fundamentos de las técnicas, su aplicación a conjuntos de datos y cada cursante reproducirá los análisis presentados, para luego repetirlos con diferentes datos. Se propondrá una actividad de aplicación, a realizarse en la semana que media entre dos encuentros, para que cada cursante tenga la oportunidad de poner en evidencia eventuales problemas que surjan del uso de las técnicas presentadas en clase y éstos puedan ser resueltos en los encuentros.</description>
     </item>
     
   </channel>
