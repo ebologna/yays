@@ -41,7 +41,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: /cinco.png
+    url: /logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

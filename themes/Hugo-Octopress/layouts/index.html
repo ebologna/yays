@@ -2,9 +2,10 @@
 
 <!-- use compact index if it is set in the config file -->
 
+{{ .content }}
 
 {{ if .Site.Params.compactIndex }}
   {{ partial "compact_index.html" . }}
-{{ else }}
+{{ else }
   {{ partial "classic_index.html" . }}
 {{ end }}
