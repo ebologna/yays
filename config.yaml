@@ -1,21 +1,26 @@
 baseurl: /
 languageCode: en-US
-title: My Yoga Place
+title: Análsis de datos con software libre
 theme: "Hugo-Octopress"
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
+
 permalinks:
   post: /:day/:month/:year/:slug/
+
 menu:
   main:
-    - name: ¿Qué es?
-      url: /describe/
-    - name: ¿Qué hacemos?
-      url: /que_hacemos/
-    - name: ¿Quiénes somos?
-      url: /about/
+    - name: Objetivos
+      url: /objetivos/
+    - name: Contenidos
+      url: /contenidos/
+    - name: Presentación
+      url: /presentacion/
+    - name: Estrategia pedagógica
+      url: /estrategia/
+    
 #    - name: GitHub
 #      url: https://github.com/ebologna
 #    - name: X
@@ -36,7 +41,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo_1.png
+    url: /cinco.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
