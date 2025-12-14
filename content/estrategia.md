@@ -1,6 +1,6 @@
 ---
-date: ""
-title: Estrategia pedagógica
+date: "2025-12-10"
+title: Modalidad de cursado
 ---
 
 El cursado implica interacción permanente entre estudiantes y docente, los tiempos de exposición

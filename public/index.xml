@@ -16,18 +16,9 @@
     </item>
     
     <item>
-      <title>Contenidos</title>
-      <link>/contenidos/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/contenidos/</guid>
-      <description>Contenidos La descripción de los datos  Distribuciones univariadas Medidas resumen correspondientes a cada tipo de variable Distribuciones bivariadas Medidas de asociación según tipo de variable Visualización de datos: distribuciones simples y conjuntas  Inferencia estadística  Parámetros de variables categóricas y cuantitativas Estimación de parámetros: error, riesgo, tamaño de muestra La varianza según el diseño muestral Pruebas de hipótesis: tipos de error, curva de potencia  Modelización  ANOVA de un factor Regresión lineal simple y múltiple Regresión logística  Bibliografía   comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos, Recuperado el 8/6/2025 de: https://es.</description>
-    </item>
-    
-    <item>
       <title>Objetivos</title>
       <link>/objetivos/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>/objetivos/</guid>
       <description>General
@@ -40,9 +31,18 @@ que quienes completen el curso puedan:
     </item>
     
     <item>
-      <title>Estrategia pedagógica</title>
+      <title>Contenidos</title>
+      <link>/contenidos/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/contenidos/</guid>
+      <description>Contenidos La descripción de los datos  Distribuciones univariadas Medidas resumen correspondientes a cada tipo de variable Distribuciones bivariadas Medidas de asociación según tipo de variable Visualización de datos: distribuciones simples y conjuntas  Inferencia estadística  Parámetros de variables categóricas y cuantitativas Estimación de parámetros: error, riesgo, tamaño de muestra La varianza según el diseño muestral Pruebas de hipótesis: tipos de error, curva de potencia  Modelización  ANOVA de un factor Regresión lineal simple y múltiple Regresión logística  Bibliografía   comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos, Recuperado el 8/6/2025 de: https://es.</description>
+    </item>
+    
+    <item>
+      <title>Modalidad de cursado</title>
       <link>/estrategia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>/estrategia/</guid>
       <description>El cursado implica interacción permanente entre estudiantes y docente, los tiempos de exposición con carácter de clase magistral, se reducen al mínimo para poner foco en los intercambios que faciliten la apropiación de procedimientos de análisis. En los encuentros sincrónicos se presentarán los fundamentos de las técnicas, su aplicación a conjuntos de datos y cada cursante reproducirá los análisis presentados, para luego repetirlos con diferentes datos. Se propondrá una actividad de aplicación, a realizarse en la semana que media entre dos encuentros, para que cada cursante tenga la oportunidad de poner en evidencia eventuales problemas que surjan del uso de las técnicas presentadas en clase y éstos puedan ser resueltos en los encuentros.</description>
