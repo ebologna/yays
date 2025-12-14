@@ -1,0 +1,8 @@
+/* Ocultar fechas en listados e individuales (Octopress/Hugo suele usar time o clases meta/date) */
+time,
+.post-date,
+.entry-date,
+.meta .date,
+.meta time {
+  display: none !important;
+}
