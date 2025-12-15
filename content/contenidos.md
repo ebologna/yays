@@ -34,6 +34,9 @@ title: Contenidos
 
  - Pastukhov, A. (2024). [Data analysis using R for Psychology and Social Science](https://alexander-pastukhov.github.io/data-analysis-using-r-forpsychology/)  
 
+ - Quan, L. (2018), [Using R for Data Analysis in Social Sciences](https://pueaa.unam.mx/uploads/materials/Li-Q.-2018.pdf?v=1660250102)
+ Oxford University Press
+
  - Ruiz-Ruano García, A.M., & López Puga, J.L. (2016). [R como entorno para el análisis estadístico en evaluación psicológica](https://dialnet.unirioja.es/servlet/articulo?codigo=5354444)
 Papeles del Psicólogo, 37(1), 74–79.
 
