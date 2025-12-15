@@ -25,20 +25,20 @@ title: Contenidos
  
 # Bibliografía   
 
- - comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos, Recuperado el
-8/6/2025 de: https://es.r4ds.hadley.nz/. Es traducción de la primera edición de R for Data
-Science de Hadley Wickham y Garrett Grolemund (2017), disponible en:
-https://r4ds.had.co.nz/─   
+ - comunidad de R de Latinoamérica (2023) [R Para Ciencia de Datos](https://es.r4ds.hadley.nz/)
+ Es traducción de la primera edición de [R for Data Science](https://r4ds.had.co.nz/─)
+ de Hadley Wickham y Garrett Grolemund (2017)
+   
 
- - Pastukhov, A. (2024). Data analysis using R for Psychology and Social Science.
-Recuperado el 8/6/2025 de: https://alexander-pastukhov.github.io/data-analysis-using-r-forpsychology/  
+ - Franko, W. (2025). [R + RStudio for Political Science](https://www.williamfranko.com/post/rtutorial/)
 
- - Ruiz-Ruano García, A.M., & López Puga, J.L. (2016). R como entorno para el análisis
-estadístico en evaluación psicológica. Papeles del Psicólogo, 37(1), 74–79. Recuperado el
-8/6/2025 de: https://dialnet.unirioja.es/servlet/articulo?codigo=5354444  
+ - Pastukhov, A. (2024). [Data analysis using R for Psychology and Social Science](https://alexander-pastukhov.github.io/data-analysis-using-r-forpsychology/)  
 
- - Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New
-York. Tercera edición. Recuperado el 8/6/2025 de: https://ggplot2-book.org/  
+ - Ruiz-Ruano García, A.M., & López Puga, J.L. (2016). [R como entorno para el análisis estadístico en evaluación psicológica](https://dialnet.unirioja.es/servlet/articulo?codigo=5354444)
+Papeles del Psicólogo, 37(1), 74–79.
+
+ - Wickham, H. (2016). [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/).
+ Springer-Verlag New York. Tercera edición
 
 
 # Metodología

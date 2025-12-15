@@ -1,9 +1,7 @@
 ---
-title: "Inscripción"
-output: html_document
-date: '2025-12-9'
+date: "2025-12-9"
+title: Inscripción
 ---
-
 
 
 Debido a que las clases se desarrollan en vivo por
