@@ -1,8 +1,8 @@
 # está disabled, ojo con la imagen antiguo, puede tener derechos
 library(blogdown)
 build_site()
-stop_server()
 serve_site()
+stop_server()
 # VER: https://themes.gohugo.io/themes/hugo-octopress/
 # los partials están en themes/hugo-octopress/layouts
 # venimos bien,

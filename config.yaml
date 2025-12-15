@@ -25,7 +25,7 @@ menu:
       url: /estrategia/
       weight: 40
     - name: Inscripción
-      url: https://forms.gle/XB78pzJbXTRxSn8YA
+      url: /inscripcion/
       weight: 100
     
 #    - name: GitHub
