@@ -36,7 +36,7 @@ que quienes completen el curso puedan:
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>/contenidos/</guid>
-      <description>Contenidos La descripción de los datos  Distribuciones univariadas Medidas resumen correspondientes a cada tipo de variable Distribuciones bivariadas Medidas de asociación según tipo de variable Visualización de datos: distribuciones simples y conjuntas  Inferencia estadística  Parámetros de variables categóricas y cuantitativas Estimación de parámetros: error, riesgo, tamaño de muestra La varianza según el diseño muestral Pruebas de hipótesis: tipos de error, curva de potencia  Modelización  ANOVA de un factor Regresión lineal simple y múltiple Regresión logística  Bibliografía   comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos, Recuperado el 8/6/2025 de: https://es.</description>
+      <description>Contenidos La descripción de los datos  Distribuciones univariadas Medidas resumen correspondientes a cada tipo de variable Distribuciones bivariadas Medidas de asociación según tipo de variable Visualización de datos: distribuciones simples y conjuntas  Inferencia estadística  Parámetros de variables categóricas y cuantitativas Estimación de parámetros: error, riesgo, tamaño de muestra La varianza según el diseño muestral Pruebas de hipótesis: tipos de error, curva de potencia  Modelización  ANOVA de un factor Regresión lineal simple y múltiple Regresión logística  Bibliografía   comunidad de R de Latinoamérica (2023) R Para Ciencia de Datos Es traducción de la primera edición de R for Data Science de Hadley Wickham y Garrett Grolemund (2017)</description>
     </item>
     
     <item>
@@ -46,6 +46,17 @@ que quienes completen el curso puedan:
       
       <guid>/estrategia/</guid>
       <description>El cursado implica interacción permanente entre estudiantes y docente, los tiempos de exposición con carácter de clase magistral, se reducen al mínimo para poner foco en los intercambios que faciliten la apropiación de procedimientos de análisis. En los encuentros sincrónicos se presentarán los fundamentos de las técnicas, su aplicación a conjuntos de datos y cada cursante reproducirá los análisis presentados, para luego repetirlos con diferentes datos. Se propondrá una actividad de aplicación, a realizarse en la semana que media entre dos encuentros, para que cada cursante tenga la oportunidad de poner en evidencia eventuales problemas que surjan del uso de las técnicas presentadas en clase y éstos puedan ser resueltos en los encuentros.</description>
+    </item>
+    
+    <item>
+      <title>Inscripción</title>
+      <link>/inscripcion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/inscripcion/</guid>
+      <description>Debido a que las clases se desarrollan en vivo por videoconferencia, el número de personas que pueden asistir simultáneamente está restringido.
+A fin de organizar el cursado, le pedimos que complete este formulario inscripcion con lo que queda registro de su interés por el curso. La inscripción definitiva se realizará en el mes de febrero
+Gracias por su interés</description>
     </item>
     
   </channel>

@@ -14,13 +14,13 @@ menu:
   main:
     - name: Objetivos
       url: /objetivos/
-      weight: 10
+      weight: 20
     - name: Contenidos
       url: /contenidos/
-      weight: 20
+      weight: 30
     - name: Presentación
       url: /presentacion/
-      weight: 30
+      weight: 10
     - name: Modalidad de cursado
       url: /estrategia/
       weight: 40
